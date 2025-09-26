@@ -25,11 +25,11 @@ buttons:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Kubernetes
-  logo: /images/sections/skills/kubernetes.png
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-  categories: ["container"]
-  url: "https://kubernetes.io/"
+- name: JavaScript
+  logo: /images/sections/skills/javascriptlogo.png
+  summary: "Development of apps"
+  categories: ["language"]
+  url: "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
 
 - name: Go Development
   logo: /images/sections/skills/go.png
@@ -48,11 +48,11 @@ skills:
   categories: ["container"]
   url: "https://www.docker.com/"
 
-- name: Prometheus
-  logo: /images/sections/skills/prometheus.png
-  summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
-  categories: ["basic"]
-  url: "https://prometheus.io/"
+- name: SQL
+  logo: /images/sections/skills/sql.png
+  summary: "Databases management and structuring"
+  categories: ["other"]
+  url: "https://www.w3schools.com/sql/"
 
 - name: Linux
   logo: /images/sections/skills/linux.png
@@ -65,7 +65,8 @@ skills:
   categories: ["basic"]
   url: "https://git-scm.com/"
 
-- name: C++
-  logo: /images/sections/skills/c++.png
-  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
+- name: Python
+  logo: /images/sections/skills/python logo.png
+  summary: "Used for web development, data science and analytics, AI and machine learning."
   categories: ["basic", "language"]
+  url: "https://www.python.org/"
