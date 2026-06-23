@@ -58,15 +58,15 @@ enableEmoji: true
 # Site parameters
 params:
   # Background image of the landing page
-  background: /images/site/back.jpg
+  background: /images/site/Back2.png
   # Background image of the landing page for dark theme
   #darkBackground: /images/site/background.jpg
 
   # Provide logos for your site. The inverted logo will be used in the initial
   # transparent navbar and the main logo will be used in the non-transparent navbar.
   logo:
-    main: /images/site/main-logo.png
-    inverted: /images/site/inverted-logo.png
+    main: /images/site/ernesto1.png
+    inverted: /images/site/ernesto1.png
     favicon: /images/site/favicon.png
 
   # GitHub repo of your site

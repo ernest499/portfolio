@@ -3,19 +3,19 @@ name: "Ernest Kamau"
 nickname: "Ernest"
 # greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: "Hi, This is"
-image: "images/author/john.png"
+image: "images/author/ernesto1.png"
 # give your some contact information. they will be used in the footer
 contactInfo:
   email: "eroffice499@gmail.com"
-  phone: "+254719093718"
+  phone: "+254729093718"
   github: ernest499
   linkedin: ernest
   researchgate: ernest
 
 # some summary about what you do
 summary:
-  - I am an IT Specialist.
-  - I am a Developer.
-  - I am a Leader.
-  - I am a solution builder.
+  - IT Specialist.
+  - Adept in Automation.
+  - Leader.
+  - Solution builder.
   

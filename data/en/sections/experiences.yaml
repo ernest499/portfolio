@@ -47,28 +47,35 @@ experiences:
     overview: Equatorial Nut Processors Ltd is one of the leading agro processors on East and Central Africa for edible nut, Fortified food and Cotton. They deal with a wide range of raw materials sourced locally and regionally through smallholder farmers, producers, and traders.
   positions:
   - designation: Attachee
-    start: May 22022016
-    end: August 2017
-    start: May 2016
-    end: August 2017
+    start: May 2023
+    end: August 2023
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    - Developing and Maintaining local networks in ways that optimize performance through subnetting.
+    - Monitoring servers, Server installation and configurations, LAN/WAN, and Wi-Fi to ensure full coverage.
+    - Implementation of Virtual Machines.
+    - Installing and configuring appropriate software and functions according to specifications.
+  - designation: Attachee
+    start: May 2022
+    end: August 2022
+    responsibilities:
+    - Providing helpdesk and technical support to 50+ staff across departments, resolving 90% of tickets within 24hours.
+    - Identified system data, hardware and software components required to meet user needs.
+    - Assisted with the design, Implementation and support of new software and features. 
+    - Providing Orientation and guidance to users on how to operate new software and computer equipment.
 
 - company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.example.com"
-    location: Intern Land
+    name: Jophim Communications Ltd.
+    url: "https://www.cybo.com/KE-biz/jophim-com-ltd"
+    location: Attachee
     logo: /images/sections/experiences/company3.jpg
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/experiences/company3.jpg
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+    overview: Jophim. Com Ltd is working in Finance other activities including other monetary intermediation.
   positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
+  - designation: Attachee
+    start: June 2017
+    end: August 2017
     responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    - Oversaw daily performance of computer systems
+    - Responded quickly to meet customer needs and resolve problems.
+    - Installing and configuring appropriate software and functions according to specifications.
